@@ -19,4 +19,3 @@ let benefice_par_produit = produit.prix - produit.cost
 console.log("Bénéfice par produit : ", benefice_par_produit)
 let pourcentage_benefice = 100*(benefice_par_produit/produit.prix)
 console.log("Pourcentage bénéfice par produit :", pourcentage_benefice+"%~" , Math.round(pourcentage_benefice)+"%")
-
