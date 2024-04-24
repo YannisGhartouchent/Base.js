@@ -1,0 +1,10 @@
+Nom: frite poulet sauce forestier /  Durée: 23 / Ingrédients: , poulet,huile, creme ,champignon,beurre,eau / Ustensile: friteuse, poele, saladier,mixeur
+Nom: salade poulet sauce forestier /  Durée: 14 / Ingrédients: salade, poulet,huile, creme ,champignon,beurre,eau / Ustensile: saladier, poele, saladier,mixeur
+Nom: riz saumon sauce forestier /  Durée: 20 / Ingrédients: , saumon,huile, creme ,champignon,beurre,eau / Ustensile: casserole, poele, saladier,mixeur
+Nom: purée saumon tandoori /  Durée: 20 / Ingrédients: , saumon,huile, epice tandoori / Ustensile: casserole, poele, concaseur
+Nom: purée saumon tandoori /  Durée: 20 / Ingrédients: , saumon,huile, epice tandoori / Ustensile: casserole, poele, concaseur
+Nom: purée saumon tandoori /  Durée: 20 / Ingrédients: , saumon,huile, epice tandoori / Ustensile: casserole, poele, concaseur
+Nom: salade poulet paprika /  Durée: 14 / Ingrédients: salade, poulet,huile, epice paprika / Ustensile: saladier, poele, concaseur
+Nom: purée steak hache paprika /  Durée: 20 / Ingrédients: , steak hache,huile, epice paprika / Ustensile: casserole, poele, concaseur
+Nom: frite poulet tandoori /  Durée: 23 / Ingrédients: , poulet,huile, epice tandoori / Ustensile: friteuse, poele, concaseur
+Nom: frite steak hache tandoori /  Durée: 23 / Ingrédients: , steak hache,huile, epice tandoori / Ustensile: friteuse, poele, concaseur

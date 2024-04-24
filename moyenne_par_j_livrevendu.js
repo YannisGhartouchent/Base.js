@@ -3,3 +3,4 @@ livrevendu += 50                                                                
 let livrevenduparjour  = livrevendu /7                                          //total livrevenduparjour
 console.log ("Livre vendu en moyenne par jour : "+livrevenduparjour)
 console.log(Math.round(livrevenduparjour));
+let
